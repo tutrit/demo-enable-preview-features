@@ -15,3 +15,11 @@ tasks.withType(Test) {
 tasks.withType(JavaExec) {
 	jvmArgs += "--enable-preview"
 }
+
+
+
+
+
+
+
+
